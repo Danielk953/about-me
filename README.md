@@ -12,7 +12,7 @@ Daniel Kovacs was born and raised in Brooklyn, NY in 2007. He is currently a stu
 
 
 Schedule
-<ol>
+
 1. SEP10
 
 2. Spanish
@@ -28,5 +28,3 @@ Schedule
 7. Big History Project
 
 8. Algebra 2
-
-</ol>
