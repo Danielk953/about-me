@@ -8,7 +8,7 @@
 
 [Danielk9538@hstat.org]
 
-Daniel Kovacs was born and raised in Brooklyn, NY in 2007. He is currently a student practicing software engineering during his sophomore year. He enjoys hanging out with his friends during his freetime.
+Daniel Kovacs was born and raised in Brooklyn, NY in 2007. He is currently a student practicing software engineering during his sophomore year. He enjoys hanging out with his friends during his freetime.  
 
 
 Schedule
