@@ -12,3 +12,21 @@ Music
 Sleep
 
 Time with Friends
+
+Schedule
+
+1. SEP10
+
+2. Spanish
+
+3. Gym
+
+4. Lunch
+
+5. Global History
+
+6. Chemistry
+
+7. Big History Project
+
+8. Algebra 2
