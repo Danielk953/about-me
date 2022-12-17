@@ -1,19 +1,23 @@
-Daniel Kovacs
+# **Daniel Kovacs**
 
-Student
+---
 
-High School of Telecommunication Arts and Technology
+## _Student_
+
+## High School of Telecommunication Arts and Technology
+
+[Github Webpage](Danielk953.github.io)
 
 Daniel Kovacs was born and raised in Brooklyn, NY in 2007. He is currently a student practicing software engineering during his sophomore year. He enjoys hanging out with his friends during his freetime.
 
-Things I Enjoy
-Music
+### Things I Enjoy
+* Music
 
-Sleep
+* Sleep
 
-Time with Friends
+* Time with Friends.
 
-Schedule
+### Schedule
 
 1. SEP10
 
