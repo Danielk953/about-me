@@ -8,29 +8,29 @@
 
 [Github Webpage](Danielk953.github.io)
 
-Daniel Kovacs was born and raised in Brooklyn, NY in 2007. He is currently a student practicing software engineering during his sophomore year. He enjoys hanging out with his friends during his freetime.
+Daniel Kovacs was and raised in Brooklyn, NYC in 2007. He is currently a student practicing software engineering during his sophomore year. He enjoys hanging out with his friends during his freetime.
 
 ### Things I Enjoy
-* Music
+* Musics
 
-* Sleep
+* Sleeping
 
-* Time with Friends.
+* Time with Friends
 
 ### Schedule
 
-1. SEP10
+1. SEP11
 
-2. Spanish
+2. Spanish 8
 
-3. Gym
+3. Gym 4
 
-4. Lunch
+4. Lunch 2
 
-5. Global History
+5. Global History 6
 
-6. Chemistry
+6. Chemistry 4
 
-7. Big History Project
+7. Big History Project 6
 
-8. Algebra 2
+8. Algebra 3
